@@ -32,6 +32,7 @@ import br.com.sankhya.extensions.actionbutton.Registro;
 public class SendMsg
 
 //teste
+//teste 2
 
 {
 	private static String getDateTime() 
