@@ -4,13 +4,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.math.BigDecimal;
-import java.sql.Clob;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -25,14 +23,7 @@ import com.microtripit.mandrillapp.lutung.view.MandrillMessage.Recipient;
 import com.microtripit.mandrillapp.lutung.view.MandrillMessage.Recipient.Type;
 import com.microtripit.mandrillapp.lutung.view.MandrillMessageStatus;
 
-import br.com.sankhya.extensions.actionbutton.AcaoRotinaJava;
-import br.com.sankhya.extensions.actionbutton.ContextoAcao;
-import br.com.sankhya.extensions.actionbutton.Registro;
-
 public class SendMsg
-
-//teste
-//teste 2
 
 {
 	private static String getDateTime() 
@@ -83,7 +74,7 @@ public class SendMsg
 		MandrillApi mandrillApi = new MandrillApi("5ZbB4mED1LcYaISfhPtquQ");
 
 		//Conecta no banco do Sankhya
-		ConnectMSSQLServer.dbConnect("jdbc:sqlserver://192.168.0.5:1433;DatabaseName=SANKHYA_TREINA;", "adriano","Compiles23");
+		ConnectMSSQLServer.dbConnect("jdbc:sqlserver://192.168.0.15:1433;DatabaseName=SANKHYA_TREINA;", "SANKHYA","gap951753");
 
 		//recupera o numero da negociação
 		/*Registro[] linha = contexto.getLinhas();
@@ -197,7 +188,7 @@ public class SendMsg
 			// add recipients
 			ArrayList<Recipient> recipients = new ArrayList<Recipient>();
 			Recipient recipient = new Recipient();
-			recipient.setEmail(emailParc/*"ovokindersurpresa@gmail.com"*/);
+			recipient.setEmail(emailParc);
 			recipient.setName("-");
 			recipients.add(recipient);
 			

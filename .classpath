@@ -2,23 +2,23 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/mandrillDependences/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/mandrillDependences/commons-io-1.3.2.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/mandrillDependences/gson-2.2.2.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/mandrillDependences/httpclient-4.2.3.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/mandrillDependences/httpcore-4.2.2.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/mandrillDependences/lutung-0.0.7.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/mandrillDependences/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Documents/ClassesJava/SankhyaW-extensions.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/poi-3.9.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/itext-2.1.7.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/servlet-api-2.4.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/groovy-all-1.5.3.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/commons-beanutils-1.7.0.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/commons-digester-1.7.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/jasperreports-5.5.1.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Downloads/JasperReport/commons-collections-3.1.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Documents/ClassesJava/ConexaoSQL_sqljdbc4.jar"/>
-	<classpathentry kind="lib" path="/Users/adriano/Documents/ClassesJava/skwextensiontool.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/Mandrill/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/Mandrill/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/Mandrill/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/Mandrill/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/Mandrill/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/Mandrill/LibMandrill_lutung-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/Mandrill/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/SankhyaW-extensions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/servlet-api-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/groovy-all-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/jasperreports-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/JasperReport/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/ConexaoSQL_sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STI-004/git/referencias/skwextensiontool.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
